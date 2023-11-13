@@ -1,7 +1,7 @@
 # Useful Resources
 
 ## Getting Started
-Welcome to the Data Science Flex Discord Github Repo! Here are some useful resources to help you get started and stay on track!
+Welcome to the Data Science Flex Github Repo! Here are some useful resources to help you get started and stay on track!
 
 
 ## Guided Practices, Office Hours, & Career Services Events

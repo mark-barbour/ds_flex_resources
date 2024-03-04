@@ -25,12 +25,12 @@ To find a Project Review Rubric and Checklist, please visit the "Project Descrip
 ## Scheduling Links
 ### 1:1 Meetings
 To schedule a 1:1 meeting please select the link the corresponds to your Primary Instructor.
- * [Abhineet](https://go.oncehub.com/Abhineetweekly)
- * [Mark](https://go.oncehub.com/FlexBookingsMark)
- * [Morgan](https://go.oncehub.com/1on1withMorgan)
+
+ * [Mark](https://calendly.com/flex_booking_mark/one_on_one)
+ * [Morgan](https://calendly.com/morgan-jones-ds/1-1-session-with-morgan)
 
 ### Project Reviews
 To schedule a Project Review, please use a link below that corresponds to an instructor who is ***not*** your primary. This ensures that you are getting a diversity of feedback on your work, and also promotes accountability and impartiality. These links are valid for every Phase, including the Capstone. 
- * [Abhineet](https://go.oncehub.com/AbhineetProjectAssessment)
- * [Mark](https://go.oncehub.com/ODSProjectReviewMark)
- * [Morgan](https://go.oncehub.com/projectreviewmorgan)
+
+ * [Mark](https://calendly.com/flex_booking_mark/project_reviews)
+ * [Morgan](https://calendly.com/morgan-jones-ds/ds-flex-project-review-with-morgan)

@@ -27,7 +27,7 @@ For your convenience, I have created a ***SPREADSHEET VERSION*** of the Rubric a
  * [Phase 4](https://docs.google.com/spreadsheets/d/1nSzqa6yBQyImY-HSSYIuyHUcNixPlVmg2R7G05z1ieI/edit?usp=sharing)
  * [Phase 5](https://docs.google.com/spreadsheets/d/1eopuCxJ4rZC5DMz2phsSQTuOyV5g5WJkiZw7_E3aLoA/edit?usp=sharing)
  
-I also recommend using a project management framework such as [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining). This is the project management framework our Checklist is built from, and generally what is use in industry for managing data projects.
+I also recommend using a project management framework such as [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining). This is the framework our Checklist is built from, and generally what is used in industry for managing data projects.
 
 ## Scheduling Links
 

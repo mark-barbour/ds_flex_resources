@@ -31,7 +31,7 @@ I also recommend using a project management framework such as [CRISP-DM](https:/
 
 ## Scheduling Links
 
-**UPDATE** I will be out from 07/16 to 07/23 and will be back on the 24th. If you need to schedule a 1:1 or Project Review during that time, please use Morgan's scheduling links ([1:1]((https://calendly.com/morgan-jones-ds/1-1-session-with-morgan), [Project Reviews](https://calendly.com/morgan-jones-ds/ds-flex-project-review-with-morgan)).
+**UPDATE** I will be out from 07/16 to 07/23 and will be back on the 24th. If you need to schedule a 1:1 or Project Review during that time, please use Morgan's scheduling links ([1:1](https://calendly.com/morgan-jones-ds/1-1-session-with-morgan), [Project Reviews](https://calendly.com/morgan-jones-ds/ds-flex-project-review-with-morgan)).
 
 ### [30 Min 1:1](https://calendly.com/flex_booking_mark/one_on_one)
 These sessions are for any questions, feedback, roadblocks, or just general face-to-face meetings with your instructor.

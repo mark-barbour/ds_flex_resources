@@ -31,8 +31,8 @@ I also recommend using a project management framework such as [CRISP-DM](https:/
 
 ## Scheduling Links
 
-### [30 Min 1:1](https://calendly.com/flex_booking_mark/one_on_one)
+### [30 Min 1:1](https://calendar.app.google/jhE6jDd3Wxoi3UER9)
 These sessions are for any questions, feedback, roadblocks, or just general face-to-face meetings with your instructor.
 
-### [45 Min Project Review](https://calendly.com/flex_booking_mark/project_reviews) 
+### [45 Min Project Review](https://calendar.app.google/ens2uQkrr7uouPXH9) 
 These sessions are for evaluating your phase projects and are assessments of your final work for each project. The first few minutes will be used for presenting, I will ask you some questions as the stakeholder, then give you feedback on your deliverables. Please be prepared with your project repo, your presentation software, the ability to screenshare with Audio/Video working in Zoom and camera on. To avoid technical issues, I recommend doing a fresh restart on your computer and only having up the relevant applications and documents for your project review. This will ensure good use of time and minimize rescheduling.
